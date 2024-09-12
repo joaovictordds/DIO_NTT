@@ -1,8 +1,10 @@
-# Resumos GIT e GitHub
+# Projetos da DIO_NTT
 
-Repositório para armazenar resumos sobre Git e Github.
+- Projeto de operações bancárias
 
-[Repositório](https://github.com/joaovictordds/DIO_NTT)
+[Acesse](https://deploys.streamlit.app/) para ver os projetos em uma interface mais amigável.
+
+---
 
 ## 📚 Documentação
 
@@ -10,25 +12,4 @@ Repositório para armazenar resumos sobre Git e Github.
 - [Documentação GitHub](https://docs.github.com/)
 
 
-## 💻 Tabelas
 
-| Tópico | Item |
-| ------ | ---------|
-|Tópico detalhado numero 1 | [Links especificos]()
-
-
-## Códigos
-
-```
-
-mkdir pasta
-cd pasta
-
-git init
-git status
-touch README.md
-
-
-```
-
-[Feito no readme.so](readme.so) 

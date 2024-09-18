@@ -2,7 +2,7 @@
 
 - Projeto de operações bancárias (em desenvolvimento)
 
-[Acesse](https://deploys.streamlit.app/) para ver o projeto em uma interface mais amigável.
+[Acesse](https://deploys.streamlit.app/) para ver o projeto em uma interface mais amigável. (em atualização parte II).
 
 ---
 

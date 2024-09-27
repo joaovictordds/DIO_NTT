@@ -1,7 +1,6 @@
 # Projetos da DIO_NTT
 
-- Projeto de operações bancárias (em desenvolvimento)
-
+- Projeto para operações bancárias;
 - [Acesse](https://deploys.streamlit.app/) para ver o projeto em uma interface mais amigável.
 
 # Dashboards

@@ -10,6 +10,8 @@
  - Desafio I - [Relatorio de vendas](https://app.powerbi.com/view?r=eyJrIjoiNTk3NDdjZGYtOTQ4ZS00M2RkLWE4ZDEtOTViMDcwOWYzMzVmIiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9) (base de dados de exemplo do próprio PowerBI).
  - Desafio II - [Relatório dinamico](https://app.powerbi.com/view?r=eyJrIjoiNGE1ZGIwZjktYWQ2NS00Mzg2LWE3YTQtZmYzNTc0NGQ2NzdlIiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9).
  - Desafio III - Relacionamento de dados não locais, tratamento dos dados no Power BI e um [relatório](https://app.powerbi.com/view?r=eyJrIjoiY2M5YTc1ZmItMjEyMy00YmJlLTgxMjEtMGVhM2Q0MjUzYzJhIiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9) de exemplo.
+ - Desafio IV -
+ - Desafio V.I - Atualizaçao do [relatório](https://app.powerbi.com/view?r=eyJrIjoiYTBmZjU2YmMtMTc5Mi00ZTNkLWFhNTItOTBmMDVjOGU0MTZlIiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9) financials com foco na experiência do usuário
 
 ---
 

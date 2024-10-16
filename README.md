@@ -12,6 +12,7 @@
  - Desafio III - Relacionamento de dados não locais, tratamento dos dados no Power BI e um [relatório](https://app.powerbi.com/view?r=eyJrIjoiY2M5YTc1ZmItMjEyMy00YmJlLTgxMjEtMGVhM2Q0MjUzYzJhIiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9) de exemplo.
  - Desafio IV - Star Schema
  - Desafio V.I - Atualizaçao do [relatório](https://app.powerbi.com/view?r=eyJrIjoiYTBmZjU2YmMtMTc5Mi00ZTNkLWFhNTItOTBmMDVjOGU0MTZlIiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9) financials com foco na experiência do usuário
+ - Desafio V.II - Personalização do [relatório](https://app.powerbi.com/view?r=eyJrIjoiMDA0OTg3MjMtODI5Ny00YzE1LWJhNWItMjdjODgxOTM0MTM2IiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9) anterior.
 
 ---
 

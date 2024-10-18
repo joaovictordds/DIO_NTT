@@ -3,7 +3,7 @@
 - Projeto para operações bancárias;
 - [Acesse](https://deploys.streamlit.app/) para ver o projeto em uma interface mais amigável.
 
-# Dashboards
+# Dashboards e Relatórios
 
  - [Diabetes](https://app.powerbi.com/view?r=eyJrIjoiMGE1OWY3ODQtZTlmNC00OWM3LThiNDItZGY5NTMyM2MzYzY1IiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9)
  - [Exemplo](https://app.powerbi.com/view?r=eyJrIjoiOWE4ZWU2ZjEtZjkwMy00ODE5LWFjNjItYTRjNTA4NzY2MmVhIiwidCI6ImU0M2Y1NzdhLWEzNjktNGQ4My05MjliLTdlNzc3MDYwNmFmOCJ9) de uso das ferramentas graficas.
